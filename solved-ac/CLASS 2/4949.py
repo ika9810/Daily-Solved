@@ -1,0 +1,17 @@
+import sys
+input = sys.stdin.readline
+
+So when I die (the [first] I will see in (heaven) is a score list).
+[ first in ] ( first out ).
+Half Moon tonight (At least it is better than no Moon at all].
+A rope may form )( a trail in a maze.
+Help( I[m being held prisoner in a fortune cookie factory)].
+([ (([( [ ] ) ( ) (( ))] )) ]).
+ .
+.
+while(1):
+    n = input()
+    if n == ".":
+        break
+    else:
+        n = n.split(".")[0]
